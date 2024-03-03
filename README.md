@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatinkumar78" alt="jatinkumar78" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/jatinku86028908" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/jatinku86028908?logo=twitter&style=for-the-badge" alt="https://twitter.com/jatinku86028908" /></a> </p>
 
 - 🌱 I’m currently learning MERN stack **MongoDb**
 

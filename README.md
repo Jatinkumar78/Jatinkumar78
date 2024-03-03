@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jatinkumar78](https://github.com/Jatinkumar78)
 
-- 💬 Ask me about **HTML5, CSS3 , Javascript , BootStrap, TailwindCss , Reactjs, MongoDb, Nodejs , Java ,C++, DSA**
+- 💬 Ask me about **Java ,C++, DSA ,HTML5, CSS3 , Javascript , BootStrap, TailwindCss , Reactjs, MongoDb, Nodejs.**
 
 - 📫 How to reach me **activejatinkumar2274@gmail.com**
 

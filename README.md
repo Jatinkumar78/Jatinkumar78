@@ -1,20 +1,25 @@
-
 <h1 align="center">Hi 👋, I'm Jatin kumar</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
 
-- 🌱 I’m currently learning MERN stack **Nodejs MongoDb**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinkumar78&label=Profile%20views&color=0e75b6&style=flat" alt="jatinkumar78" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatinkumar78" alt="jatinkumar78" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/https://twitter.com/jatinku86028908" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/jatinku86028908?logo=twitter&style=for-the-badge" alt="https://twitter.com/jatinku86028908" /></a> </p>
+
+- 🌱 I’m currently learning MERN stack **MongoDb**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jatinkumar78](https://github.com/Jatinkumar78)
 
-- 💬 Ask me about **Java ,C++, DSA ,HTML5, CSS3 , Javascript , BootStrap, TailwindCss , Reactjs, MongoDb, Nodejs.**
+- 💬 Ask me about **Java ,C++, DSA , HTML5, CSS3 , Javascript , BootStrap, TailwindCss , Reactjs, MongoDb, Nodejs **
 
 - 📫 How to reach me **activejatinkumar2274@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/🇮🇳i_mjatin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="🇮🇳i_mjatin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jatinkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatinkumar" height="30" width="40" /></a>
-<a href="https://instagram.com/jatinkumar__78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jatinkumar__78" height="30" width="40" /></a>
+<a href="https://twitter.com/https://twitter.com/jatinku86028908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/jatinku86028908" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jatin-kumar-809458246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jatin-kumar-809458246/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/jatinkumar__78/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jatinkumar__78/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,28 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatinkumar78&show_icons=true&locale=en" alt="jatinkumar78" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinkumar78&" alt="jatinkumar78" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee

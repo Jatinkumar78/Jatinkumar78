@@ -12,7 +12,7 @@
 - Made two Chrome extensions:  
 1. **Text Reader and Translator**: Converts text to speech and translates into multiple languages.  
 2. **Layout Inspector**: Outlines webpage elements to simplify layout debugging.
-3. 
+
 - 📫 How to reach me **activejatinkumar2274@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

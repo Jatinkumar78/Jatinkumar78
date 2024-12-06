@@ -7,8 +7,12 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jatinkumar78](https://github.com/Jatinkumar78)
 
-- 💬 Ask me about **Java ,C++, DSA , HTML5, CSS3 , Javascript , BootStrap, TailwindCss , Reactjs, MongoDb, Nodejs **
-
+- 💬 Ask me about **Java ,C++, DSA , HTML5, CSS3 , Javascript , BootStrap, TailwindCss , Reactjs, MongoDb, Nodejs  **
+ 
+- Made two Chrome extensions:  
+1. **Text Reader and Translator**: Converts text to speech and translates into multiple languages.  
+2. **Layout Inspector**: Outlines webpage elements to simplify layout debugging.
+3. 
 - 📫 How to reach me **activejatinkumar2274@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

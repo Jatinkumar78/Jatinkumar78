@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jatin kumar</h1>
-<h3 align="center">A passionate Full-stack developer from India</h3>
+<h3 align="center">A passionate Cybersecurity enthusiast & Full-stack developer from India</h3>
 
 
 
-- 🌱 I’m currently learning MERN stack **MongoDb**
+- 🌱 I’m currently learning Blue Teaming.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jatinkumar78](https://github.com/Jatinkumar78)
 
-- 💬 Ask me about **Java ,C++, DSA , HTML5, CSS3 , Javascript , BootStrap, TailwindCss , Reactjs, MongoDb, Nodejs  **
+- 💬 Ask me about **Wireshark, Burp Suite, Log Analysis & SIEM (Splunk),Threat Intelligence, Linux & Windows Security Fundamentals
+Nmap,Java ,C++, DSA , HTML5, CSS3 , Javascript , BootStrap, TailwindCss , Reactjs, MongoDb, Nodejs  **
  
 - Made two Chrome extensions:  
 1. **Text Reader and Translator**: Converts text to speech and translates into multiple languages.  

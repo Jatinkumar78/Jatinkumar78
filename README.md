@@ -1,330 +1,540 @@
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    OGx — JATIN KUMAR // GITHUB PROFILE                 ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00ff41,100:00f0ff&height=200&section=header&text=JATIN%20KUMAR&fontSize=50&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=OGx%20%7C%20Cybersecurity%20Researcher%20%7C%20Ethical%20Hacker&descSize=16&descColor=00f0ff&descAlignY=55&descAlign=50" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--          ELITE HACKER PROFILE — NISARG CHASMAWALA  //  HEAVEN     -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%90+Cybersecurity+Researcher+%7C+Penetration+Tester;%F0%9F%9B%A1%EF%B8%8F+CEH+%7C+CEH+Masters+%7C+CRTOM+%7C+ISO+27001;%F0%9F%8E%93+MSc+Cybersecurity+%40+Birmingham+City+University;%F0%9F%8F%86+Top+2%25+TryHackMe+%7C+2x+Hackathon+Champion" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:001100,50:003300,80:005500,100:00ff41&height=300&section=header&text=NISARG%20CHASMAWALA&fontSize=62&fontColor=00ff41&animation=fadeIn&fontAlignY=40&desc=%5B%20Offensive%20Security%20Engineer%20%7C%20Penetration%20Tester%20%7C%20AI%20%2B%20Cyber%20Researcher%20%5D&descAlignY=60&descSize=14&descColor=00cc33" />
 
-<!-- PROFILE BADGES -->
-<br/>
+<!-- ─────────── TYPING ANIMATION ─────────── -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=950&lines=%24+whoami+%E2%80%94+Elite+Offensive+Security+Engineer+%7C+CPENT+%7C+CEH+Master+%7C+CHFI;%24+cat+%2Fetc%2Fcerts+%E2%80%94+ISO+27001+Lead+Auditor+%7C+CEH+v13+%7C+EHE+96%25;%24+grep+achievement+%2Fvar%2Flog%2Fprojects+%E2%80%94+99.99%25+DDoS+Accuracy+%7C+1.0000+Precision;%24+cat+%2Fvar%2Flog%2Fml+%E2%80%94+Android+Malware+Detection+98.47%25+F1-Score;%24+ls+%2Froot%2Fresearch+%E2%80%94+CVSS+Prediction+R%C2%B2%3D0.9989+%7C+337%2C705+CVE+Records;%24+nmap+-A+target+%E2%80%94+MSc+Cyber+Security+%40+Birmingham+City+University%2C+UK;%24+id+%E2%80%94+alias%3DHEAVEN+%7C+Red+Teamer+%7C+AI+Security+Researcher+%7C+CTF+Player;%24+sudo+apt+install+safer-digital-world+%E2%80%94+INITIALISING...+%5BOK%5D" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Jatinkumar78&style=for-the-badge&color=00ff41&label=PROFILE+ACCESSED)](https://github.com/Jatinkumar78)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_2%25-ff0040?style=for-the-badge&logo=tryhackme&logoColor=ff0040&labelColor=0d1117)](https://tryhackme.com/p/JaTiN)
-[![Hackathons](https://img.shields.io/badge/Hackathon_Wins-2x_Champion-ff6600?style=for-the-badge&logo=hack-the-box&logoColor=ff6600&labelColor=0d1117)](https://github.com/Jatinkumar78)
+<br/><br/>
 
-<br/>
+<!-- ─────────── SOCIAL BADGES ─────────── -->
+<a href="https://www.linkedin.com/in/nisarg-chasmawala">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;
+<a href="mailto:nisargkc@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>&nbsp;
+<a href="https://github.com/nishu2402">
+  <img src="https://img.shields.io/badge/GitHub-00ff41?style=for-the-badge&logo=github&logoColor=black"/>
+</a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=nishu2402&label=PROFILE+HITS&color=00ff41&style=for-the-badge"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jatinkumar78-00f0ff?style=for-the-badge&logo=linkedin&logoColor=00f0ff&labelColor=0d1117)](https://linkedin.com/in/jatinkumar78)
-[![Gmail](https://img.shields.io/badge/Email-Contact_Me-00ff41?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0d1117)](mailto:activejatinkumar2274@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Jatinkumar78-b000ff?style=for-the-badge&logo=github&logoColor=b000ff&labelColor=0d1117)](https://github.com/Jatinkumar78)
+<br/><br/>
+
+<!-- ─────────── CERT BADGES ─────────── -->
+<img src="https://img.shields.io/badge/☠_CPENT-Certified-00ff41?style=flat-square&labelColor=0a0a0a&color=00ff41"/>
+<img src="https://img.shields.io/badge/☠_CEH_Master-EC--Council-00ff41?style=flat-square&labelColor=0a0a0a&color=00ff41"/>
+<img src="https://img.shields.io/badge/☠_CHFI-90.7%25-00ff41?style=flat-square&labelColor=0a0a0a&color=00ff41"/>
+<img src="https://img.shields.io/badge/☠_ISO_27001-Lead_Auditor-00ff41?style=flat-square&labelColor=0a0a0a&color=00ff41"/>
+<img src="https://img.shields.io/badge/☠_CEH_v13-EC--Council-00ff41?style=flat-square&labelColor=0a0a0a&color=00ff41"/>
+<img src="https://img.shields.io/badge/☠_EHE-96%25-00ff41?style=flat-square&labelColor=0a0a0a&color=00ff41"/>
+<img src="https://img.shields.io/badge/☠_CRTOM-Red_Team_Leaders-00ff41?style=flat-square&labelColor=0a0a0a&color=00ff41"/>
+<img src="https://img.shields.io/badge/☠_CTIGA-Red_Team_Leaders-00ff41?style=flat-square&labelColor=0a0a0a&color=00ff41"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
-## `> whoami`
+## `[ 01 ]` ☠ **SYSTEM PROFILE: WHOAMI**
+
+```bash
+┌──(HEAVEN㉿kali-offensive)-[~]
+└─$ sudo cat /root/.profile
+
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║    ███╗   ██╗██╗███████╗ █████╗ ██████╗  ██████╗                        ║
+║    ████╗  ██║██║██╔════╝██╔══██╗██╔══██╗██╔════╝                        ║
+║    ██╔██╗ ██║██║███████╗███████║██████╔╝██║  ███╗                       ║
+║    ██║╚██╗██║██║╚════██║██╔══██║██╔══██╗██║   ██║                       ║
+║    ██║ ╚████║██║███████║██║  ██║██║  ██║╚██████╔╝                       ║
+║    ╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝                       ║
+║                                                                          ║
+║  >> ALIAS     :  HEAVEN                                                  ║
+║  >> IDENTITY  :  Nisarg Chasmawala                                       ║
+║  >> ROLE      :  Offensive Security Engineer | Penetration Tester        ║
+║  >> LOCATION  :  Halesowen, Birmingham, England, United Kingdom          ║
+║  >> EDUCATION :  MSc Cyber Security — Birmingham City University         ║
+║                  (Expected Graduation: March 2027)                       ║
+║                                                                          ║
+║  >> CERTS     :  CPENT | CEH Master | CHFI | ISO 27001 Lead Auditor      ║
+║                  CEH v13 | EHE (96%) | CRTOM | CTIGA | CCEP | CCPP      ║
+║                  Foundations of Log Analysis | TOEFL iBT 91/120          ║
+║                                                                          ║
+║  >> WEAPONS   :  Metasploit · Burp Suite · Nessus · Maltego              ║
+║                  Wireshark · Autopsy · FTK Imager · MITRE ATT&CK         ║
+║                  TensorFlow · XGBoost · NetworkX · AWS IAM               ║
+║                                                                          ║
+║  >> ML WINS   :  DDoS Detection    — 99.99% Accuracy | 1.0000 Precision  ║
+║                  Malware Engine    — 98.47% F1-Score | Near-Perfect AUC  ║
+║                  CVSS Prediction   — R² = 0.9989     | 337,705 CVEs     ║
+║                                                                          ║
+║  >> MISSION   :  Uncover vulnerabilities. Secure critical systems.       ║
+║                  Shape international cyberspace policy.                  ║
+║                  Build a safer digital world — one exploit at a time.    ║
+║                                                                          ║
+║  [STATUS]  ████████████████████████████████  ACTIVE — ALWAYS HUNTING     ║
+╚══════════════════════════════════════════════════════════════════════════╝
+
+[HEAVEN@offensive-sec ~]$ _
+```
+
+---
+
+## `[ 02 ]` ⚔️ **ATTACK SURFACE: SKILLS MATRIX**
+
+<div align="center">
+
+**— CORE LANGUAGES & PLATFORMS —**
+
+<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,aws&theme=dark&perline=7" />
+
+**— AI & MACHINE LEARNING ARSENAL —**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,matlab&theme=dark&perline=7" />
+
+**— OPERATING SYSTEMS —**
+
+<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows,apple&theme=dark&perline=7" />
+
+</div>
+
+<br/>
+
+```bash
+┌──(HEAVEN㉿kali-offensive)-[~/os-arsenal]
+└─$ uname -a --all-platforms
+
+  [+] macOS              ............... Daily Driver
+  [+] Kali Linux         ............... Primary Offensive Platform
+  [+] Parrot OS          ............... Alternate Offensive Platform
+  [+] Ubuntu / Debian    ............... Server & Dev Environments
+  [+] Windows 10 / 11    ............... Target Simulation & Forensics
+  [+] iOS / Android      ............... Mobile Security Research
+```
+
+<br/>
+
+**— CYBERSECURITY TOOLS MATRIX —**
+
+<div align="center">
+
+| ⚔️ Exploitation | 🔍 Recon & OSINT | 🧪 Digital Forensics | ☁️ Vuln Management |
+|:---|:---|:---|:---|
+| `Metasploit` Advanced | `Nmap / Netcat` Advanced | `Autopsy` Advanced | `Nessus` Advanced |
+| `Burp Suite` Advanced | `OSINT Framework` Advanced | `FTK Imager` Advanced | `OpenVAS` Advanced |
+| `SQLmap` Advanced | `Maltego` Advanced | `Magnet AXIOM` Advanced | `AWS IAM` Advanced |
+| `Hydra` Advanced | `Wireshark` Advanced | `Magnet DVR Examiner` Advanced | `MITRE ATT&CK` Advanced |
+| `John the Ripper` Advanced | `Shodan` Advanced | `MOBILeadit` Advanced | `NetworkX` Advanced |
+| `Aircrack-ng` Advanced | `Nikto / Acunetix` Advanced | `Passware Kit` Advanced | `CVSS Scoring` Advanced |
+| `Ghidra (RE)` Very Good | `Snort` Very Good | `Volatility` Advanced | `ISO 27001 Audit` Certified |
+
+</div>
+
+---
+
+## `[ 03 ]` 🚀 **REAL-WORLD PROJECTS: ZERO-DAY TO DEPLOY**
+
+---
+
+<div align="center">
+
+### `PROJECT 01` — AEGIS-IAM DASHBOARD
+#### Cloud Security & Risk Intelligence Platform
+
+[![Repo](https://img.shields.io/badge/OPEN_REPO-Aegis--IAM--Dashboard-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/Aegis-IAM-Dashboard-Cyber-Security-HUD-)
+
+</div>
+
+```
+╔─ MISSION BRIEF ──────────────────────────────────────────────────────────╗
+  THREAT VECTOR  : AWS Cloud IAM Over-Privilege & Privilege Escalation
+  TECH STACK     : Python · NetworkX · MITRE ATT&CK · AWS JSON · OWASP
+  KEY RESULT     : Automated detection of assume-role chaining & SoD conflicts
+  COMPLIANCE     : OWASP-compliant data validation + vector-based risk reports
+╚──────────────────────────────────────────────────────────────────────────╝
+```
+
+Architected a Python IAM risk analysis platform ingesting AWS JSON exports, auto-detecting over-privileged cloud identities and mapping privilege escalation paths via **graph-based detection (NetworkX)**. Integrated **MITRE ATT&CK** tactic/technique categorisation with a dynamic CLI patch command pipeline and automated, vector-based risk intelligence reporting.
+
+---
+
+<div align="center">
+
+### `PROJECT 02` — ANDROID MALWARE DETECTION SYSTEM
+#### ML-Powered Mobile Threat Engine — **98.47% F1-Score**
+
+[![Repo](https://img.shields.io/badge/OPEN_REPO-Android--Malware--Detection-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/android-malware-detection-ml)
+
+</div>
+
+```
+╔─ MISSION BRIEF ──────────────────────────────────────────────────────────╗
+  THREAT VECTOR  : Android APK Permissions & API Call Static Analysis
+  TECH STACK     : Python · Scikit-Learn · XGBoost · Drebin (15,000+ records)
+  KEY RESULT     : 98.47% F1-Score · Near-perfect ROC-AUC
+  INNOVATION     : Behaviour-based detection replacing signature scanning
+╚──────────────────────────────────────────────────────────────────────────╝
+```
+
+Engineered enterprise-grade Android malware pipeline evaluating L1 Regularisation, Chi-Square extraction and Random Forest feature importance on the Drebin dataset. Trained XGBoost, RF, Logistic Regression & KNN to transition from signature-based to **behaviour-based threat identification** at production scale.
+
+---
+
+<div align="center">
+
+### `PROJECT 03` — AI-POWERED DDoS DETECTION SYSTEM
+#### NIDS with Deep Learning — **1.0000 Precision · 99.99% Accuracy**
+
+[![Repo](https://img.shields.io/badge/OPEN_REPO-Intelligent--DDoS--Detection-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/intelligent-ddos-detection-system)
+
+</div>
+
+```
+╔─ MISSION BRIEF ──────────────────────────────────────────────────────────╗
+  THREAT VECTOR  : Volumetric DDoS Network Intrusion Classification
+  TECH STACK     : Python · TensorFlow · XGBoost · CIC-DDoS2019 (225K+ rows)
+  KEY RESULT     : 1.0000 Precision · 99.99% Accuracy · ZERO false positives
+  MODELS TESTED  : 1D-CNNs · MLPs · XGBoost · Random Forest
+╚──────────────────────────────────────────────────────────────────────────╝
+```
+
+Built an AI-driven NIDS on the CIC-DDoS2019 dataset with robust preprocessing handling severe class imbalance. XGBoost achieved a flawless **1.0000 precision** — zero false-positive alerts for security analysts while maintaining near-perfect recall for all active volumetric attack vectors.
+
+---
+
+<div align="center">
+
+### `PROJECT 04` — PREDICTIVE CVSS VULNERABILITY SCORING PIPELINE
+#### ML Threat Assessment — **R² = 0.9989 · 337,705 CVE Records**
+
+[![Repo](https://img.shields.io/badge/OPEN_REPO-NVD--CVSS--Prediction-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/NVD-Cybersecurity-CVSS-Prediction)
+
+</div>
+
+```
+╔─ MISSION BRIEF ──────────────────────────────────────────────────────────╗
+  THREAT VECTOR  : Automated NVD Severity Assessment via ML Regression
+  TECH STACK     : Python · Scikit-Learn · Gradient Boosting · NVD Dataset
+  DATASET        : 337,705 historical CVE records (National Vuln. Database)
+  KEY RESULT     : R² = 0.9989 (Gradient Boosting) · Near-perfect accuracy
+  FEATURE SELECT : Pearson · Mutual Info · Chi-Square · F-Regression · RFE
+╚──────────────────────────────────────────────────────────────────────────╝
+```
+
+Engineered a supervised ML pipeline to automate NVD severity assessments, predicting CVSS Base Scores across **337,705 historical CVE records**. Processed vulnerability metadata features (attack-type flags, impact, exploitability scores) via 5 feature selection methods isolating 13 optimal predictors. Trained Gradient Boosting, Random Forest, Decision Tree & Linear Regression models — Gradient Boosting achieved near-perfect **R² = 0.9989** validated through MAE, RMSE, R² and 5-fold cross-validation for enterprise patch prioritisation.
+
+---
+
+<div align="center">
+
+### `PROJECT 05` — ADAPTIVE VULNERABILITY RISK SCORING
+#### AI-Driven Real-Time Threat Assessment — Beyond Static CVSS
+
+[![Repo](https://img.shields.io/badge/OPEN_REPO-Adaptive--Vuln--Risk--Scoring-00ff41?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/nishu2402/adaptive-vulnerability-risk-scoring)
+
+</div>
+
+```
+╔─ MISSION BRIEF ──────────────────────────────────────────────────────────╗
+  THREAT VECTOR  : Dynamic CVSS Replacement — Context-Aware Risk Scoring
+  TECH STACK     : Python · Scikit-Learn · XGBoost · Feature Engineering
+  KEY RESULT     : Real-time 0–10 context risk scores · MSE/RMSE/MAE/R² val.
+  INNOVATION     : TCP flags · port categories · protocol features as inputs
+╚──────────────────────────────────────────────────────────────────────────╝
+```
+
+Designed an adaptive ML framework transitioning vulnerability assessments from static CVSS to real-time, context-aware scoring. Processed raw network traffic features (TCP flags, port categories, protocols) via One-Hot Encoding and feature engineering. Evaluated XGBoost, RF, Decision Tree & KNN; validated with MSE, RMSE, MAE and R² for enterprise threat response prioritisation at scale.
+
+---
+
+## `[ 04 ]` 🏅 **CERTIFICATIONS: BATTLE RIBBONS**
+
+<div align="center">
+
+| 🏅 | Certification | Issuer | Date | Score / Credential |
+|:--:|:---|:--|:---:|:---|
+| ☠️ | **CPENT** — Certified Penetration Tester Professional | EC-Council | `2024-11` | `ECC6970842153` |
+| ☠️ | **CEH Master** — Certified Ethical Hacker Master | EC-Council | `2024-04` | `ECC1382059467` |
+| ☠️ | **CEH Practical** | EC-Council | `2024-04` | `180/200` · `ECC7804965321` |
+| ☠️ | **CEH v13** — Certified Ethical Hacker | EC-Council | `2025-12` | `ID 776964` |
+| ☠️ | **CEH** — Certified Ethical Hacker | EC-Council | `2024-01` | `91.2%` · `ECC5081642397` |
+| ☠️ | **CHFI** — Computer Hacking Forensic Investigator | EC-Council | `2023-12` | `90.7%` · `ECC4925367081` |
+| 🔒 | **ISO/IEC 27001:2022 Lead Auditor** | Mastermind | `2026-01` | `ttuf1fci7e` |
+| 🔒 | **EHE** — Ethical Hacker Essentials | EC-Council | `2026-01` | **`96%`** · `ECC8416329075` |
+| 🔴 | **CRTOM** — Certified Red Team Operations Management | Red Team Leaders | `2026-01` | — |
+| 🔴 | **CTIGA** — Threat Intelligence & Governance Analyst | Red Team Leaders | `2026-01` | — |
+| 🔴 | **CCEP** — Certified Cybersecurity Educator Professional | Red Team Leaders | `2026-01` | — |
+| 🔴 | **CCPP** — Certified C++ Practitioner | Red Team Leaders | `2026-01` | — |
+| 🔴 | **Foundations of Log Analysis for Cyber Defense** | Red Team Leaders | `2026-01` | — |
+| 📄 | **TOEFL iBT** | ETS | `2024-07` | `91 / 120` |
+
+</div>
+
+---
+
+## `[ 05 ]` 💼 **FIELD OPERATIONS: EXPERIENCE LOG**
+
+```
+╔════════════════════════════════════════════════════════════════════════╗
+║  TIMELINE                                                              ║
+╠════════════════════════════════════════════════════════════════════════╣
+║                                                                        ║
+║  [2025-03 → 2025-09]  IT HARDWARE SUPPORT ENGINEER                    ║
+║                        NIVA TECHNO TRANSITION, Surat, India           ║
+║                        ▸ Enterprise system installation & maintenance  ║
+║                        ▸ Hardware, software & network diagnostics      ║
+║                        ▸ LAN/Wi-Fi & peripheral management            ║
+║                        ▸ Regular security checks & offsite support     ║
+║                                                                        ║
+║  [2024-02 → 2025-02]  VULNERABILITY ASSESSMENT & PENETRATION TESTER   ║
+║                        SYSAP TECHNOLOGIES, Pune, India (Remote)       ║
+║                        ▸ Full-scope enterprise penetration tests       ║
+║                        ▸ Executive + technical risk report delivery    ║
+║                        ▸ Vulnerability remediation & hardening        ║
+║                        ▸ Maintained currency with emerging threats     ║
+║                                                                        ║
+║  [2023-07 → 2024-01]  VULNERABILITY SCANNING & PEN TEST INTERN        ║
+║                        SYSAP TECHNOLOGIES, Pune, India                ║
+║                        ▸ Security & vulnerability scanning            ║
+║                        ▸ Exploitation, threat intel & compliance docs  ║
+║                        ▸ Security research & record keeping           ║
+║                                                                        ║
+║  [2023-01 → 2023-04]  NETWORK SPECIALIST INTERN                       ║
+║                        AIRLINK COMMUNICATION PVT. LTD, Surat          ║
+║                        ▸ Network troubleshooting & monitoring          ║
+║                        ▸ Network configuration & documentation         ║
+║                                                                        ║
+║  [2022-06 → 2022-07]  NETWORK ENGINEER INTERN                         ║
+║                        NIVA TECHNO TRANSITION, Surat                  ║
+║                        ▸ Network infrastructure & structured cabling   ║
+║                        ▸ Documentation, reporting & customer support   ║
+║                                                                        ║
+╚════════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## `[ 06 ]` 🎓 **MSc MISSIONS: ACADEMIC PROJECTS — BCU**
+
+<details>
+<summary><b>🔴 [CLASSIFIED-10] Consolidated Pentesting & RCE Assessment</b></summary>
+<br/>
+
+Conducted **end-to-end penetration testing** across Redis, Openfire, and Gitea environments. Achieved **system-level access** via Redis replication abuse, Openfire admin console exploitation, and Git Hooks weaponization. CVSS scores up to **10.0 Critical**.
+
+`Nmap` · `Metasploit` · `Redis Exploit` · `Git Hooks` · `Reverse Shells` · `CVSS`
+</details>
+
+<details>
+<summary><b>🔵 [CLASSIFIED-10] Digital Forensic Strategy — Missing Person Investigation</b></summary>
+<br/>
+
+Designed an **ISO-aligned forensic investigation plan** covering corporate systems, mobile devices, IoT, cloud platforms & CCTV. Applied ISO 27037/27035/27042/27043/17025 with full UK GDPR, NPCC & FSR compliance and chain-of-custody management.
+
+`FTK Imager` · `Magnet AXIOM` · `Magnet DVR Examiner` · `MOBILeadit` · `Autopsy` · `Passware Kit`
+</details>
+
+<details>
+<summary><b>🟡 [CLASSIFIED-10] Strategic Security Audit — Cyberzone AI Ltd.</b></summary>
+<br/>
+
+Led **ISO/IEC 27001:2023 audit** of AI-driven healthcare & fintech systems. Identified identity gaps, patching weaknesses & source code exposure. Evaluated compliance with UK GDPR, Data Protection Act 2018, and US HIPAA. Proposed FIDO2 MFA, immutable backups, automated patching & Purple Team exercises. Delivered full risk-scored audit report + phased mitigation roadmap.
+</details>
+
+<details>
+<summary><b>🟣 [CLASSIFIED-10] AI & Autonomous Pentesting Frameworks — Research</b></summary>
+<br/>
+
+Systematic literature review evaluating **Deep Reinforcement Learning & LLMs** for autonomous offensive cybersecurity. Synthesized quantitative performance metrics assessing architectural evolution from single-agent LLMs to collaborative Multi-Agent Systems (MAS). Identified the "Sim2Real" transfer gap, algorithmic hallucination risks and dual-use ethical concerns. Formulated a Neuro-Symbolic AI + HITL architecture for EU AI Act & GDPR compliance.
+
+`DRL` · `LLMs` · `Multi-Agent Systems` · `Neuro-Symbolic AI` · `EU AI Act` · `GDPR`
+</details>
+
+<details>
+<summary><b>🟢 [CLASSIFIED-10] IT Project Management: Autonomous AI-Driven Pentesting</b></summary>
+<br/>
+
+Orchestrated a **7-week Hybrid Agile-PRINCE2** project for an autonomous AI cybersecurity system using Monday.com as the Work OS. Managed a 5-phase WBS, sprint execution, capacity planning & automated approvals. Led EU AI Act compliance deliverables under crisis resource reallocation with HITL + Neuro-Symbolic safety guardrails.
+
+`Monday.com` · `Agile-PRINCE2` · `WBS` · `Risk Management` · `Regulatory Compliance`
+</details>
+
+---
+
+## `[ 07 ]` 🏢 **INTEL BRIEFINGS: VIRTUAL JOB SIMULATIONS 2025**
+
+<div align="center">
+
+| 🏢 Organisation | 🎯 Operation | 🔑 Skills Demonstrated |
+|:---|:---|:---|
+| **Deloitte** | Cyber Job Simulation | Threat Analysis · Incident Reports · Mitigation |
+| **MasterCard** | Cybersecurity Job Simulation | Payment Security · Fraud Detection · Risk Response |
+| **Commonwealth Bank** | Intro to Cybersecurity | Risk Management · Access Control · Data Protection |
+| **Telstra** | Cybersecurity Job Simulation | Network Security · Vulnerability Identification |
+| **Datacom** | Cyber Security Operations | SOC · Log Analysis · Anomaly Detection |
+| **TATA** | Cybersecurity Analyst Simulation | System Scanning · Vuln Prioritisation |
+| **AIG** | Shields Up: Cybersecurity | Cyber Defence · Attack Scenarios · Safeguards |
+
+</div>
+
+---
+
+## `[ 08 ]` 🎓 **EDUCATION: TRAINING GROUND**
+
+<div align="center">
+
+| 🎓 Degree | 🏛️ Institution | 📅 | 📊 |
+|:---|:---|:---:|:---:|
+| **MSc Cyber Security** with Professional Placement | Birmingham City University, UK | Exp. `2027` | — |
+| **BE — Computer Science & Engineering** | SN Patel Institute of Technology (GTU), India | `2024` | **7.86 CGPA** |
+| **Diploma — Computer Engineering** | N.G. Patel Polytechnic College (GTU), India | `2021` | **7.80 CGPA** |
+| **Class 10 — SSC (CBSE)** | Kendriya Vidyalaya No.1, Surat | `2017` | — |
+
+</div>
+
+---
+
+## `[ 09 ]` 🌍 **SYSTEM LANGUAGES**
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/English-Native_Bilingual-00ff41?style=for-the-badge&labelColor=0a0a0a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Hindi-Native_Bilingual-00cc33?style=for-the-badge&labelColor=0a0a0a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Gujarati-Native_Bilingual-009922?style=for-the-badge&labelColor=0a0a0a"/>
+
+</div>
+
+---
+
+## `[ 10 ]` 💀 **SIDE MISSIONS: HOBBIES & CTF**
+
+```bash
+┌──(HEAVEN㉿kali-offensive)-[~/hobbies]
+└─$ cat interests.txt
+
+  [+] CTF CHALLENGES    ............... Ethical Hacking Research & Capture-the-Flag
+  [+] APPLE ECOSYSTEM   ............... Hardware/Software Troubleshooting & Emerging Tech
+  [+] MOBILE SECURITY   ............... iOS & Android Security Research
+  [+] CULINARY HACKS    ............... Experimenting with Varied Cuisines & Cooking
+```
+
+---
+
+## `[ 11 ]` 🎯 **MISSION OBJECTIVES: CAREER GOALS**
 
 ```python
 #!/usr/bin/env python3
-"""
-╔══════════════════════════════════════════════════════════════════╗
-║                   JATIN KUMAR // OGx @ Kali Linux               ║
-║             Cybersecurity Researcher & Ethical Hacker             ║
-╚══════════════════════════════════════════════════════════════════╝
-"""
+# CLASSIFICATION: TOP SECRET — CAREER INTELLIGENCE BRIEF
 
-class OGx:
-    def __init__(self):
-        self.name        = "Jatin Kumar"
-        self.handle      = "OGx"
-        self.location    = "Birmingham, UK 🇬🇧"
-        self.education   = "MSc Cybersecurity @ Birmingham City University"
-        self.prev_edu    = "BTech CSE @ Chitkara University (8.57 CGPA)"
-        
-        self.certifications = [
-            "🛡️  CEH – EC-Council",
-            "🏆 CEH Masters – EC-Council",
-            "🔴 CRTOM – Red Team Leaders",
-            "📋 ISO/IEC 27001:2022 Lead Auditor",
-            "☁️  AZ-900 – Microsoft Azure",
-            "🔐 Google Cybersecurity Certificate",
-            "🧪 TryHackMe Jr. Pentester Path",
-            "🌐 Web Fundamentals – TryHackMe",
-            "🔒 Cyber Security 101 – TryHackMe"
-        ]
-        
-        self.domains = {
-            "offensive":  ["Pen Testing", "Exploit Dev", "Web App Sec", "Red Teaming"],
-            "defensive":  ["SOC Ops", "SIEM/Splunk", "Incident Response", "Threat Detection"],
-            "grc":        ["ISO 27001 Auditing", "Risk Assessment", "MITRE ATT&CK", "GDPR"],
-            "dev":        ["Python", "Bash", "MERN Stack", "API Security"]
-        }
-        
-        self.motto = "Hack the planet. Secure the future."
+class NisargChasmawala_MissionPlan:
 
-    def current_focus(self):
-        return [
-            "🔬 Advanced Penetration Testing & Red Teaming",
-            "🧠 AI/ML for Threat Detection",
-            "📊 IAM Risk Analysis & Privilege Escalation Research",
-            "🌐 Cloud Security & DevSecOps"
-        ]
+    short_term_objectives = [
+        "Earn OSCP, CISSP — push elite certification stack further",
+        "Build AI-augmented security pipelines for enterprise defence",
+        "Deepen red team operations experience with real engagements",
+    ]
+
+    mid_term_objectives = [
+        "Publish peer-reviewed research at intersection of AI + Cyber",
+        "Lead offensive security teams & mentor the next generation",
+        "Pioneer autonomous penetration testing methodologies",
+    ]
+
+    long_term_objectives = [
+        "Become a globally recognised cybersecurity adviser",
+        "Lead development of next-generation security tools & frameworks",
+        "Shape international cyberspace policy & best practices",
+    ]
+
+    ultimate_mission: str = """
+        Uncover every vulnerability. Secure every critical system.
+        Build a demonstrably safer digital world — for everyone.
+    """
+
+    def execute(self) -> None:
+        while True:
+            hunt(); learn(); build(); secure(); repeat()
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
-## `> cat /etc/stats`
+## `[ 12 ]` 📊 **DAMAGE REPORT: GITHUB STATS**
 
 <div align="center">
 
-| 🏆 Hackathon Wins | 📜 Certifications | 🌍 TryHackMe Rank | 💼 Internships | 📂 Repositories |
-|:---:|:---:|:---:|:---:|:---:|
-| **2** | **9** | **Top 2%** | **4** | **29** |
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nishu2402&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00cc33&text_color=00ff41&ring_color=00ff41"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishu2402&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41&langs_count=8"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=nishu2402&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=00ff41&sideNums=00ff41&currStreakNum=00ff41&dates=00aa22"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=nishu2402&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
-## `> cat /proc/certifications`
+## `[ 13 ]` 📈 **RECONNAISSANCE: LIVE ACTIVITY GRAPH**
 
 <div align="center">
 
-<!-- ROW 1: Core Offensive -->
-[![CEH](https://img.shields.io/badge/CEH-EC--Council-ff0040?style=for-the-badge&labelColor=0d1117)](https://www.eccouncil.org/)
-[![CEH Masters](https://img.shields.io/badge/CEH_Masters-EC--Council-ff0040?style=for-the-badge&labelColor=0d1117)](https://www.eccouncil.org/)
-[![CRTOM](https://img.shields.io/badge/CRTOM-Red_Team_Leaders-ff0040?style=for-the-badge&labelColor=0d1117)](https://www.youracclaim.com/)
-
-<!-- ROW 2: GRC & Cloud -->
-[![ISO 27001](https://img.shields.io/badge/ISO_27001-Lead_Auditor-b000ff?style=for-the-badge&labelColor=0d1117)](https://www.iso.org/)
-[![AZ-900](https://img.shields.io/badge/AZ--900-Microsoft_Azure-00f0ff?style=for-the-badge&labelColor=0d1117)](https://learn.microsoft.com/)
-[![Google Cyber](https://img.shields.io/badge/Cybersecurity-Google-00ff41?style=for-the-badge&logo=google&logoColor=00ff41&labelColor=0d1117)](https://grow.google/certificates/cybersecurity/)
-
-<!-- ROW 3: TryHackMe -->
-[![Jr. Pentester](https://img.shields.io/badge/Jr._Pentester-TryHackMe-ff6600?style=for-the-badge&logo=tryhackme&logoColor=ff6600&labelColor=0d1117)](https://tryhackme.com/p/JaTiN)
-[![Web Fundamentals](https://img.shields.io/badge/Web_Fundamentals-TryHackMe-ff6600?style=for-the-badge&logo=tryhackme&logoColor=ff6600&labelColor=0d1117)](https://tryhackme.com/p/JaTiN)
-[![Cyber Sec 101](https://img.shields.io/badge/Cyber_Sec_101-TryHackMe-ff6600?style=for-the-badge&logo=tryhackme&logoColor=ff6600&labelColor=0d1117)](https://tryhackme.com/p/JaTiN)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nishu2402&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=00cc33&area_color=003300&area=true&hide_border=true&custom_title=LIVE+THREAT+ACTIVITY+MONITOR" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
-## `> nmap -sV ./skills`
-
-### ⚔️ Offensive Security
+## `[ 14 ]` 🐍 **CONTRIBUTION SNAKE — LIVE FEED**
 
 <div align="center">
 
-[![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-▰▰▰▰▰▰▰▰▰▱-ff0040?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-[![Web App Security](https://img.shields.io/badge/Web_App_Security-▰▰▰▰▰▰▰▰▰▱-ff0040?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-[![Exploit Development](https://img.shields.io/badge/Exploit_Development-▰▰▰▰▰▰▰▰▱▱-ff0040?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-[![Red Teaming](https://img.shields.io/badge/Red_Teaming-▰▰▰▰▰▰▰▰▱▱-ff0040?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-[![Vulnerability Assessment](https://img.shields.io/badge/Vuln_Assessment-▰▰▰▰▰▰▰▰▰▱-ff0040?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-[![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-▰▰▰▰▰▰▰▰▰▱-ff0040?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 </div>
 
-### 🛡️ Defensive Security
+---
 
 <div align="center">
 
-[![SOC Operations](https://img.shields.io/badge/SOC_Operations-▰▰▰▰▰▰▰▰▱▱-00f0ff?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-[![SIEM / Splunk](https://img.shields.io/badge/SIEM_/_Splunk-▰▰▰▰▰▰▰▰▱▱-00f0ff?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-[![Incident Response](https://img.shields.io/badge/Incident_Response-▰▰▰▰▰▰▰▰▱▱-00f0ff?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-[![Threat Detection](https://img.shields.io/badge/Threat_Detection-▰▰▰▰▰▰▰▰▱▱-00f0ff?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-[![Log Analysis](https://img.shields.io/badge/Log_Analysis-▰▰▰▰▰▰▰▰▰▱-00f0ff?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-[![Security Monitoring](https://img.shields.io/badge/Security_Monitoring-▰▰▰▰▰▰▰▰▱▱-00f0ff?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-
-</div>
-
-### 🔧 Tools & Frameworks
-
-<div align="center">
-
-[![Metasploit](https://img.shields.io/badge/Metasploit-▰▰▰▰▰▰▰▰▰▱-ff6600?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-▰▰▰▰▰▰▰▰▱▱-ff6600?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-[![Wireshark](https://img.shields.io/badge/Wireshark-▰▰▰▰▰▰▰▰▰▱-ff6600?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-[![Nmap](https://img.shields.io/badge/Nmap-▰▰▰▰▰▰▰▰▰▰-ff6600?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-▰▰▰▰▰▰▰▰▰▰-ff6600?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-[![John the Ripper](https://img.shields.io/badge/John_the_Ripper-▰▰▰▰▰▰▰▰▱▱-ff6600?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-
-</div>
-
-### 📋 GRC & Compliance
-
-<div align="center">
-
-[![ISO 27001 Auditing](https://img.shields.io/badge/ISO_27001_Auditing-▰▰▰▰▰▰▰▰▰▱-b000ff?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-▰▰▰▰▰▰▰▰▱▱-b000ff?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-[![Risk Assessment](https://img.shields.io/badge/Risk_Assessment-▰▰▰▰▰▰▰▰▰▱-b000ff?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-[![GDPR Awareness](https://img.shields.io/badge/GDPR_Awareness-▰▰▰▰▰▰▰▰▱▱-b000ff?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-[![Security Policy](https://img.shields.io/badge/Security_Policy-▰▰▰▰▰▰▰▰▱▱-b000ff?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-
-</div>
-
-### 💻 Development & Scripting
-
-<div align="center">
-
-[![Python](https://img.shields.io/badge/Python-▰▰▰▰▰▰▰▰▰▱-00ff41?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-[![Bash](https://img.shields.io/badge/Bash-▰▰▰▰▰▰▰▰▱▱-00ff41?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-[![JavaScript](https://img.shields.io/badge/JavaScript-▰▰▰▰▰▰▰▰▱▱-00ff41?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-[![React](https://img.shields.io/badge/React-▰▰▰▰▰▰▰▰▱▱-00ff41?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-[![Node.js](https://img.shields.io/badge/Node.js-▰▰▰▰▰▰▰▰▱▱-00ff41?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-[![MongoDB](https://img.shields.io/badge/MongoDB-▰▰▰▰▰▰▰▱▱▱-00ff41?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-
-</div>
-
-### ☁️ Cloud & Networking
-
-<div align="center">
-
-[![Azure](https://img.shields.io/badge/Microsoft_Azure-▰▰▰▰▰▰▰▰▱▱-00f0ff?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-[![IAM](https://img.shields.io/badge/IAM-▰▰▰▰▰▰▰▰▰▱-00f0ff?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-[![TCP/IP](https://img.shields.io/badge/TCP/IP-▰▰▰▰▰▰▰▰▰▱-00f0ff?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-[![DNS & HTTP/S](https://img.shields.io/badge/DNS_&_HTTPS-▰▰▰▰▰▰▰▰▰▱-00f0ff?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-[![VPNs & Firewalls](https://img.shields.io/badge/VPNs_&_Firewalls-▰▰▰▰▰▰▰▰▱▱-00f0ff?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-[![Network Forensics](https://img.shields.io/badge/Network_Forensics-▰▰▰▰▰▰▰▰▱▱-00f0ff?style=flat-square&labelColor=0d1117)](https://github.com/Jatinkumar78)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## `> cat /var/log/experience.log`
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  [2025]  MSc Cybersecurity             │  Birmingham City University   │
-│          Network Sec, Digital Forensics, Ethical Hacking, IR           │
-├─────────────────────────────────────────────────────────────────────────┤
-│  [2024]  Cybersecurity Intern          │  Redynox                      │
-│          Security assessments, vuln scanning, threat monitoring        │
-├─────────────────────────────────────────────────────────────────────────┤
-│  [2024]  Cybersecurity Virtual Intern  │  Deloitte (Forage)            │
-│          Breach handling, log analysis, incident triage                │
-├─────────────────────────────────────────────────────────────────────────┤
-│  [2024]  Cybersecurity Simulation      │  Mastercard (Forage)          │
-│          Phishing simulation design, threat awareness reporting        │
-├─────────────────────────────────────────────────────────────────────────┤
-│  [2024]  Cybersecurity Virtual Intern  │  Accenture (Forage)           │
-│          Threat analysis, risk identification, architecture review     │
-├─────────────────────────────────────────────────────────────────────────┤
-│  [2021]  BTech Computer Science        │  Chitkara University (8.57)   │
-│          MERN Stack, API Security, Threat Modelling, DSA              │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## `> trophy --list`
-
-<div align="center">
-
-| 🏆 | Competition | Organization | Year |
-|:---:|:---|:---|:---:|
-| 🥇 | **BCU Cyber Security Hackathon** — Priv Esc & IAM Risk Platform | STEAMhouse, Birmingham City University | **2025** |
-| 🥇 | **Carrefour E-Commerce Hackathon** — AI Virtual Fit Check App | Majid Al Futtaim & Carrefour, Chitkara University | **2023** |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## `> cat /proc/github_stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jatinkumar78&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00f0ff&text_color=c9d1d9&border_color=1a3a1a&hide_border=false" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatinkumar78&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=1a3a1a&hide_border=false" height="180"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:001100,50:003300,80:005500,100:00ff41&height=180&section=footer&text=root%40offensive-sec%3A~%23+stay+curious+--+stay+dangerous&fontSize=18&fontColor=00ff41&animation=twinkling&fontAlignY=52" />
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jatinkumar78&theme=chartreuse-dark&background=0d1117&ring=00ff41&fire=ff0040&currStreakLabel=00f0ff&sideLabels=00ff41&border=1a3a1a)](https://github.com/Jatinkumar78)
+```sql
+SELECT * FROM elite_security_engineers
+WHERE alias     = 'HEAVEN'
+  AND name      = 'Nisarg Chasmawala'
+  AND certs     IN ('CPENT','CEH_Master','CHFI','ISO_27001','CEH_v13')
+  AND location  = 'Birmingham, England, United Kingdom'
+  AND status    = 'ACTIVE'
+  AND mission   = 'MAKING_DIGITAL_WORLD_SAFER';
+
+-- 1 row returned. Target identified. ☠
+```
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jatinkumar78&bg_color=0d1117&color=00ff41&line=00f0ff&point=ff0040&area=true&area_color=00ff41&hide_border=false&custom_title=Contribution%20Graph)](https://github.com/Jatinkumar78)
+[![GitHub](https://img.shields.io/badge/github.com%2Fnishu2402-00ff41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/nishu2402)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/nisarg--chasmawala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisarg-chasmawala)
+&nbsp;
+[![Email](https://img.shields.io/badge/nisargkc%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nisargkc@gmail.com)
 
 <br/>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Jatinkumar78&theme=matrix&no-bg=true&no-frame=true&column=7&margin-w=10)](https://github.com/Jatinkumar78)
+*`[ ALL SYSTEMS SECURED — CONNECTION TERMINATED — ☠ ]`*
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## `> cat /etc/platforms`
-
-<div align="center">
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_2%25_Globally-ff0040?style=for-the-badge&logo=tryhackme&logoColor=ff0040&labelColor=0d1117)](https://tryhackme.com/p/JaTiN)
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-Active-00ff41?style=for-the-badge&logo=hackthebox&logoColor=00ff41&labelColor=0d1117)](https://hackthebox.com)
-[![Qwiklabs](https://img.shields.io/badge/Qwiklabs-Active-00f0ff?style=for-the-badge&logo=qwiklabs&logoColor=00f0ff&labelColor=0d1117)](https://www.cloudskillsboost.google/)
-[![Google Cloud](https://img.shields.io/badge/Cloud_Skills_Boost-Active-ff6600?style=for-the-badge&logo=google-cloud&logoColor=ff6600&labelColor=0d1117)](https://www.cloudskillsboost.google/)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## `> cat /etc/languages`
-
-<div align="center">
-
-| Language | Proficiency |
-|:---:|:---:|
-| 🇬🇧 English | `████████████████████` Fluent |
-| 🇮🇳 Hindi | `████████████████████` Native |
-| 🇩🇪 German | `████████░░░░░░░░░░░░` A1 → A2 |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## `> cat /etc/interests`
-
-<div align="center">
-
-[![CTF](https://img.shields.io/badge/🏁_CTF_Competitions-0d1117?style=for-the-badge)](https://github.com/Jatinkumar78)
-[![Cloud Security](https://img.shields.io/badge/☁️_Cloud_Security-0d1117?style=for-the-badge)](https://github.com/Jatinkumar78)
-[![DevSecOps](https://img.shields.io/badge/🔄_DevSecOps-0d1117?style=for-the-badge)](https://github.com/Jatinkumar78)
-[![Threat Intel](https://img.shields.io/badge/🔍_Threat_Intelligence-0d1117?style=for-the-badge)](https://github.com/Jatinkumar78)
-[![Open Source](https://img.shields.io/badge/🔓_Open_Source_Security-0d1117?style=for-the-badge)](https://github.com/Jatinkumar78)
-[![Red Teaming](https://img.shields.io/badge/🔴_Red_Teaming-0d1117?style=for-the-badge)](https://github.com/Jatinkumar78)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## `> ifconfig eth0 // Connect`
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/📧_Email-activejatinkumar2274@gmail.com-00ff41?style=for-the-badge&labelColor=0d1117)](mailto:activejatinkumar2274@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-jatinkumar78-00f0ff?style=for-the-badge&labelColor=0d1117)](https://linkedin.com/in/jatinkumar78)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-Jatinkumar78-b000ff?style=for-the-badge&labelColor=0d1117)](https://github.com/Jatinkumar78)
-[![TryHackMe](https://img.shields.io/badge/🧪_TryHackMe-Profile-ff0040?style=for-the-badge&labelColor=0d1117)](https://tryhackme.com/p/JaTiN)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<div align="center">
-
-### 💀 *"Hack the planet. Secure the future."* 💀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:00f0ff&height=120&section=footer&text=ACCESS%20GRANTED&fontSize=24&fontColor=00ff41&animation=fadeIn&fontAlignY=70" width="100%"/>
-
-</div>
-
-<!-- 
-╔══════════════════════════════════════════════════════════════╗
-║  README.md by OGx — Jatin Kumar                             ║
-║  github.com/Jatinkumar78                                     ║
-║  "The quieter you become, the more you can hear."            ║
-╚══════════════════════════════════════════════════════════════╝
--->

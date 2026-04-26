@@ -15,7 +15,7 @@
 <tr>
 <td width="55%">
 
-🐉 **Jatin Kumar** aka **OGx** — Cybersecurity operative based in **Birmingham, UK**.
+🐉 **Jatin Kumar** aka **OGx** — Cybersecurity operative based in **Birmingham, UK**. **Portfolio:** https://ogxodin.netlify.app
 
 🎓 Currently pursuing **MSc Cybersecurity** at **Birmingham City University**. Previously completed **BTech Computer Science** at Chitkara University with **CGPA 8.57/10**.
 

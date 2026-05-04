@@ -86,9 +86,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<a href="https://github.com/Jatinkumar78"><img src="https://streak-stats.demolab.com/?user=Jatinkumar78&theme=highcontrast&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff0040&currStreakLabel=00ff41&sideLabels=00f5ff&currStreakNum=00ff41&sideNums=00f5ff&dates=555555&border_radius=10" width="49%" alt="Streak"/></a>&nbsp;<a href="https://github.com/Jatinkumar78"><img src="https://github-readme-stats.vercel.app/api?username=Jatinkumar78&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00f5ff&text_color=c9d1d9&ring_color=00ff41&count_private=true&include_all_commits=true&rank_icon=github&border_radius=10" width="49%" alt="Stats"/></a>
+<a href="https://github.com/Jatinkumar78"><img src="https://streak-stats.demolab.com/?user=Jatinkumar78&theme=highcontrast&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff0040&currStreakLabel=00ff41&sideLabels=00f5ff&currStreakNum=00ff41&sideNums=00f5ff&dates=555555&border_radius=10" width="49%" alt="Streak"/></a>
+  <!-- &nbsp;<a href="https://github.com/Jatinkumar78"><img src="https://github-readme-stats.vercel.app/api?username=Jatinkumar78&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00f5ff&text_color=c9d1d9&ring_color=00ff41&count_private=true&include_all_commits=true&rank_icon=github&border_radius=10" width="49%" alt="Stats"/></a> -->
 
-<a href="https://github.com/Jatinkumar78"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatinkumar78&layout=compact&theme=highcontrast&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8&border_radius=10" width="42%" alt="Top Langs"/></a>
+<!-- <a href="https://github.com/Jatinkumar78"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatinkumar78&layout=compact&theme=highcontrast&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8&border_radius=10" width="42%" alt="Top Langs"/></a> -->
 
 <a href="https://github.com/Jatinkumar78"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Jatinkumar78&bg_color=0d1117&color=00ff41&line=00f5ff&point=ff0040&area=true&area_color=00ff4130&hide_border=true&custom_title=%E2%9A%A1%20OGx%20Commit%20Activity&title_color=00ff41&radius=10" width="95%" alt="Activity Graph"/></a>
 
